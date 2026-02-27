@@ -1,7 +1,7 @@
 ## 🇹🇷 Türkçe
 
 ### 💻 Proje Hakkında
-**CipherForge**, parola gücünü analiz etmek ve kırılamaz parolalar üretmek için tasarlanmış, hem Terminal hem de Web arayüzüne sahip bir siber güvenlik aracıdır. kullanıcıları kaba kuvvet (brute-force) 
+**Zero day pass**, parola gücünü analiz etmek ve kırılamaz parolalar üretmek için tasarlanmış, hem Terminal hem de Web arayüzüne sahip bir siber güvenlik aracıdır. kullanıcıları kaba kuvvet (brute-force) 
 ve sözlük saldırılarına karşı korumak amacıyla geliştirilmiştir.
 
 ### 🚀 Özellikler
@@ -23,7 +23,7 @@ Aracı hiçbir kurulum yapmadan doğrudan tarayıcınızda test edebilirsiniz:
 ## 🇬🇧 English
 
 ### 💻 About The Project
-**CipherForge** is a dual-interface (Terminal & Web) cybersecurity tool designed to analyze password strength and generate unbreakable, cryptographically secure passwords.it aims to protect users against brute-force and dictionary attacks.
+**Zero day pass** is a dual-interface (Terminal & Web) cybersecurity tool designed to analyze password strength and generate unbreakable, cryptographically secure passwords.it aims to protect users against brute-force and dictionary attacks.
 
 ### 🚀 Features
 * **Password Analyzer:** Evaluates passwords based on length, casing, numbers, and special characters. Scores from 0 to 5.
