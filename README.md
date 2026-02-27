@@ -13,7 +13,7 @@ ve sözlük saldırılarına karşı korumak amacıyla geliştirilmiştir.
 
 ### 🌐 Canlı Web Versiyonu
 Aracı hiçbir kurulum yapmadan doğrudan tarayıcınızda test edebilirsiniz:
-**[👉 Canlı Demo İçin Tıklayın](https://gorkem-pre.github.io/-gorkem-pre-Zero-Day-PassWEB/)** *(Linkinizi buraya ekleyin)*
+**[👉 Canlı Demo İçin Tıklayın](https://gorkem-pre.github.io/Zero-Day-PassWEB/)** *(Linkinizi buraya ekleyin)*
 
 ### 🛠️ Bilgisayarda Çalıştırma (Python CLI)
 1. Repoyu bilgisayarınıza indirin: `git clone https://github.com/gorkem-pre/Zero-Day-Pass`
@@ -34,7 +34,7 @@ Aracı hiçbir kurulum yapmadan doğrudan tarayıcınızda test edebilirsiniz:
 
 ### 🌐 Live Web Version
 You can test the tool directly in your browser without any installation:
-**[👉 Click Here for Live Demo](https://gorkem-pre.github.io/-gorkem-pre-Zero-Day-PassWEB/)** *(Linkinizi buraya ekleyin)*
+**[👉 Click Here for Live Demo](https://gorkem-pre.github.io/Zero-Day-PassWEB/)** *(Linkinizi buraya ekleyin)*
 
 ### 🛠️ How to Run Locally (Python CLI)
 1. Clone the repository: `git clone https://github.com/gorkem-pre/Zero-Day-Pass`
