@@ -23,7 +23,7 @@ Aracı hiçbir kurulum yapmadan doğrudan tarayıcınızda test edebilirsiniz:
 ## 🇬🇧 English
 
 ### 💻 About The Project
-**CipherForge** is a dual-interface (Terminal & Web) cybersecurity tool designed to analyze password strength and generate unbreakable, cryptographically secure passwords. Inspired by the "Mr. Robot" universe, it aims to protect users against brute-force and dictionary attacks.
+**CipherForge** is a dual-interface (Terminal & Web) cybersecurity tool designed to analyze password strength and generate unbreakable, cryptographically secure passwords.it aims to protect users against brute-force and dictionary attacks.
 
 ### 🚀 Features
 * **Password Analyzer:** Evaluates passwords based on length, casing, numbers, and special characters. Scores from 0 to 5.
